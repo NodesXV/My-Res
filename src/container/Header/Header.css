@@ -1,15 +1,20 @@
 .app__header {
-    background-color: var(--color-black);
+    background-color: white;
 }
 
 .app__header-h1 {
     font-family: var(--font-base);
-    color: var(--color-golden);
+    color: #db006b;
     font-weight: 700;
     letter-spacing: 0.04em;
     text-transform: capitalize;
     line-height: 117px;
     font-size: 90px;
+}
+
+.app__header button{
+    color: white;
+    background-color: #db006b;
 }
 
 .app__header-img img {

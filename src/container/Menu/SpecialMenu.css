@@ -1,11 +1,15 @@
 .app__specialMenu {
     flex-direction: column;
-    background: var(--color-black);
+    background: white;
 }
 
 .app__specialMenu-title {
     margin-bottom: 2rem;
     text-align: center;
+}
+
+.app__specialMenu-title h1{
+    color: #db006b;
 }
 
 .app__specialMenu-menu {

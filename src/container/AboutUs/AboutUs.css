@@ -1,10 +1,19 @@
 .app__aboutus {
-    position: relative;
+    position: relative;;
+}
+
+.app__aboutus-content_about h1 {
+    color: #db006b;
+}
+
+.app__aboutus-content_history h1{
+    color: #db006b;
 }
 
 .app__aboutus-overlay{
     position: absolute;
     inset: 0;
+    background-color: white;
 }
 
 .app__aboutus-overlay img{
@@ -49,7 +58,7 @@
 .app__aboutus-content_about p,
 .app__aboutus-content_history p{
     margin:  2rem 0;
-    color: var(--color-grey);
+    color: black;
 }
 
 @media screen and (max-width: 2000px){
