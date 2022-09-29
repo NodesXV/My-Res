@@ -84,7 +84,7 @@
 
 .app__navbar-smallscreen_overlay .overlay__close {
     font-size: 27px;
-    color: var(--color-golden);
+    color: #db006b;
     cursor: pointer;
 
     position: absolute;
@@ -99,7 +99,7 @@
 .app__navbar-smallscreen_links li {
     margin: 2rem;
     cursor: pointer;
-    color: var(--color-golden);
+    color: white;
     font-size: 2rem;
     text-align: center;
     font-family: var(--font-base);
