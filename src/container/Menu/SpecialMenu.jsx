@@ -36,7 +36,9 @@ const SpecialMenu = () => (
     </div>
 
     <div style={{ marginTop: 15 }}>
+    <a href="https://react.school" target="_blank">
       <button type="button" style={{color: 'white' ,background:'#db006b'}} className="custom__button">View More</button>
+    </a>
     </div>
   </div>
 );

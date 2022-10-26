@@ -32,9 +32,10 @@
 }
 
 .app__navbar-links li {
-    margin: 0 1rem;
+    margin: 0 3rem;
     cursor: pointer;
     color: white;
+    font-size: large;
 }
 
 .app__navbar-links li:hover {

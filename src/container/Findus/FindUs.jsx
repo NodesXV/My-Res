@@ -14,7 +14,11 @@ const FindUs = () => (
         <p className="p__opensans"> Monday - Friday 12:00pm - 8:00pm </p>
         <p className="p__opensans"> Saturday - Sunday 12:00pm - 8:00pm </p>
       </div>
+
+      <a href="https://goo.gl/maps/DvgTPAj7MyhLckeG9" target={"_blank"}>
       <button className="custom__button" style={{color: 'white' ,background:'#db006b', marginTop: '2rem'}}>Visit Us</button>
+      </a>
+      <p className="p__opensans" style={{color: 'gray', fontStyle:'italic', fontSize: '10px', margin: '-0.2rem 1.2rem' }}> Google Maps </p>
     </div>
 
     <div className="app__wrapper_img">
